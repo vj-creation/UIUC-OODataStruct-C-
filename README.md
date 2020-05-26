@@ -3,10 +3,10 @@
   
   PNG - Portable Network Graphics
   
-  The main image -
+  The initial image given-
   ![alma](alma.png)
   
-  The tranformed images:
+  The tranformed images using various object oriented classes and HSLAPixel functions:
    ![illinify](out-illinify.png)
    
    ![grayscale](out-grayscale.png)
